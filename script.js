@@ -72,7 +72,7 @@ function moveCake() {
         return;
     }
 
-    cakePosition += 8;
+    cakePosition += 5;
 
     cake.style.right = cakePosition + "px";
 
