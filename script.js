@@ -31,7 +31,7 @@ function jump() {
         girl.style.bottom = "38px";
         isJumping = false;
 
-    }, 500);
+    }, 800);
 }
 
 
